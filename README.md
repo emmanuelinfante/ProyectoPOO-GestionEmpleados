@@ -127,7 +127,7 @@ Desarrollador reasignado a: Administración
 
 Para información detallada sobre el diseño, implementación y conceptos aplicados, consulte el archivo `INFORME_HERENCIA.md`.
 
-## Autor
+## Actividad
 
 Actividad Formativa 3 - Herencia en Java
 

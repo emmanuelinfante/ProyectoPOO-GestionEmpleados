@@ -18,7 +18,6 @@ Herencia/
 │                       ├── Desarrollador.java  (Clase derivada)
 │                       ├── Vendedor.java       (Clase derivada)
 │                       └── Main.java           (Programa principal)
-├── INFORME_HERENCIA.md
 └── README.md
 ```
 
